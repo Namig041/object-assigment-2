@@ -1,4 +1,5 @@
-# object-assigment-2Name: Namig Amralizada Student ID: 14042 # object-assigment-2
+# Name: Namig Amralizada Student ID: 14042 
+# object-assigment-2
 # Ring Buffer (Single Writer, Multiple Readers)
 
 ## Overview
